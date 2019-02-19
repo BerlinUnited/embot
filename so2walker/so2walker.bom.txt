@@ -1,0 +1,31 @@
+Bill of Material
+
+Qty Value        Device                     Package      Parts                                        Description
+1                C-EU025-025X050            C025-025X050 C2                                           CAPACITOR, European symbol
+1                CPOL-EUE3.5-8              E3,5-8       C1                                           POLARIZED CAPACITOR, European symbol
+2                LED3MM                     LED3MM       D1, D2                                       LED
+2                R-EU_0207/7                0207/7       R1, R2                                       RESISTOR, European symbol
+1                SWITCH-SPSTPTH             SWITCH-SPDT  S5                                           SPST Switch
+1                TAC_SWITCHPTH              TACTILE-PTH  S6                                           Momentary Switch
+4                TRIMPOT_UNIV               UNIPOT_DIL   P1, P2, P3, P4
+1   Arduino Nano ARDUINO_NANO_SHLD'INVERSE' NANOSHLD_INV MOD1
+
+
+
+
+TODO:
++ find suitable parts
++ values for capacitors
++ values for resistors
+
+Potentiometer with knob:
+https://www.reichelt.de/einstellpotentiometer-stehend-10-kohm-9-mm-acp-9-srs-10k-p111802.html?&trstct=pol_0
+https://www.reichelt.de/steckachse-5-x-10-mm-grau-achse-acp-9-g-p111812.html?&trstct=dnrtcl_ldsldr
+
+alternative:
+25 round trimmer pot upright 10kR
+https://www.reichelt.de/praezisionspotentiometer-25-gaenge-stehend-10-kohm-64w-10k-p2699.html?&trstct=pol_5
+
+
+slide switch
+https://www.reichelt.de/schiebeschalter-1x-um-stehend-print-rm-2-54-ss-esp101-p112178.html?r=1
